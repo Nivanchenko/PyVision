@@ -1,3 +1,5 @@
 # PyVision
 deps:   numpy,
-        cv2
+        cv2,
+        pynput,
+        screeninfo
